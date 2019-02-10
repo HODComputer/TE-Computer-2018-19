@@ -2,6 +2,7 @@
 # TE Computer 2018-19
 > Submit your Lab Assignment files here.
 ## How To :-
+* Create your GitHub Account username with similar fashion like,`FirstnameLastnameRollno (e.g AbhiShinde442,NikhilPatne439)`
 * Clone this Repository to your Local Machine.
 * Open your Folder *(named with your Roll Numbers)* in this Repository.
 * Add your Program Files into your respective Lab-Subject Folder.
