@@ -7,6 +7,7 @@
 * Add your Program Files into your respective Lab-Subject Folder.
 * Commit your Changes with the Message specifying the work done.
 * Push your Commits.
+* Want to fetch updates from remote repository to local machine just perform `Git Pull` operation
 #### Important
 * Please `follow submission dates` as per college guidelines.
 * `DO NOT OPEN OTHER'S FOLDERS, Make necessary changes in your folder ONLY`.
