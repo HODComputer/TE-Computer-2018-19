@@ -11,7 +11,7 @@
 
 ## How To :-
 #### Create your GitHub Account with the Username like **`FirstnameLastnameRollno`** in this format only. 
-> Username Examples:- **AbhiShinde442** , **NikhilPatne439**.
+> Username Examples:- **AbhishekShinde448** , **NikhilPatne439**
 
 * Open your Folder *(named with your Roll Number)* in this Repository.
 * Add your Program Files into your respective Lab-Subject Folder.
@@ -26,8 +26,10 @@
   
 ---
 Thank You!!
+          
+        - HoD (Computer Department),
+          College of Engineering Malegaon(Bk.) Baramati.
 
-
-        - HOD
-          Computer Department,
+        - Abhishek Shinde & Nikhil Patne
+          B.E.(Computer) 2018-19,
           College of Engineering Malegaon(Bk.) Baramati.
